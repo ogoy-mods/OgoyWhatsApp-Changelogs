@@ -1,2 +1,13 @@
 # OgoyWhatsApp-Changelogs
-• [Exclusive] NEW Home UI Like WAMOD  • [Added] Enable/Disable DND Mode  • [Added] Increased Message Forward Limit to Unlimited  • [Added] Video Splitter for Status  • [Added] Increased Pin Chats to Unlimited instead of 3! • [Added] Increased Character Limit to Unlimited  • [Added] Increased Pin Chat Limit to Unlimited  • [Added] Option to Enable/Disable Forward Tag
+v2.5 Ogoy Whatsapp
+
+NEW Home UI Like WAMOD
+Privacy Mods
+Media Mods
+Enable/Disable DND Mode
+Increased Message Forward Limit to Unlimited
+Video Splitter for Status
+Increased Pin Chats to Unlimited instead of 3
+Increased Character Limit to Unlimited
+Increased Pin Chat Limit to Unlimited
+Option to Enable/Disable Forward Tag
